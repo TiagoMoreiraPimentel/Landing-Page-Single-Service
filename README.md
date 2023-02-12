@@ -4,6 +4,6 @@
 
 # Link do video demonstrativo:
 
- [![Link do video - Landing Page - Single Service Clean](https://imgur.com/a/dZx5DTW.jpg)](https://www.youtube.com/watch?v=g9ZJZDMLbJc&list=PLfHEF0XhLLrvkSAn2DlHh3G0G6YaYEt7u&index=7)
+ [![Link do video - Landing Page - Single Service Clean](https://imgur.com/PXRU6Ft.jpg)](https://www.youtube.com/watch?v=g9ZJZDMLbJc&list=PLfHEF0XhLLrvkSAn2DlHh3G0G6YaYEt7u&index=7)
  
  * [Link do video - Landing Page - Single Service Clean](https://www.youtube.com/watch?v=g9ZJZDMLbJc&list=PLfHEF0XhLLrvkSAn2DlHh3G0G6YaYEt7u&index=7)
